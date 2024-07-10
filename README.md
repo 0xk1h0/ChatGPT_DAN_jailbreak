@@ -1,5 +1,5 @@
 # ChatGPT "DAN" (and other "Jailbreaks")
-- <b>NOTE: As of 2023-07-11, the DAN 12.0 prompt is working properly with Model GPT-3.5
+- <b>NOTE: As of 2023-07-11, the DAN 12.0 prompt is working properly with Model GPT- 3.5
 - <b>All contributors are constantly investigating clever workarounds that allow us to utilize the full potential of ChatGPT. Yes, this includes making ChatGPT improve its own jailbreak prompts.
 ---
 
